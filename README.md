@@ -50,8 +50,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.logo.wine/a/logo/Apache_HBase/Apache_HBase-Logo.wine.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" **alt="Hadoop" width="40" height="40"/>
+  <img src="https://www.logo.wine/a/logo/Apache_HBase/Apache_HBase-Logo.wine.svg" title="HBase" **alt="HBase" width="40" height="40"/>
 </div>
 
 ---
