@@ -27,9 +27,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a BEGINNER Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m working as a contributing to frontend and backend for building web or mobile applications.
+- :telescope: I’m working as a contributing to frontend and backend for building web or mobile applications, but actually I prefer the Java backend and Flutter mobile :)
 
 - :seedling: Exploring Technical Content Writing.
 
